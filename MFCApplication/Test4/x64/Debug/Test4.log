@@ -1,0 +1,3 @@
+﻿  unittest4.cpp
+d:\学习\mfcapplication\test4\unittest4.cpp(15): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  Test4.vcxproj -> D:\学习\MFCApplication\x64\Debug\Test4.dll
